@@ -1,7 +1,34 @@
 ---
-layout: home
-author_profile: true
+title: "Data Structure & Algorithm"
+layout: splash
+#permalink:
+date : 2020-07-01
 header:
-  image: /assets/images/Croatia.jpg
-  image_description : Dubrovnik in Croatia
+  #overlay_color:
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/Croatia.jpg
+  actions:
+    - label: "Go to First Step"
+      #url:
+  caption: "2018/07 Dubrovnik in Croatia"
+excerpt: "For Junior Developer"
+intro:
+  - excerpt: "The site aims to provide developers with a brief introduction to the most important concepts and is described in Korean."
+feature_row:
+  - image_path: /assets/images/data_structure.jpg
+    alt: "Data Structure image"
+    title: "Data Structure"
+    #url:
+    btn_label: "Learn"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/algorithm.jpg
+    alt: "Algorithm image"
+    title: "Algorithm"
+    #url:
+    btn_label: "Learn"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
