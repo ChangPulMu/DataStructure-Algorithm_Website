@@ -1,0 +1,33 @@
+# main links
+main:
+  - title: "Data Structure"
+    url: https://changpulmu.github.io/jekyll/update/Data-Structure-post/
+  - title: "Algorithm"
+    url: https://changpulmu.github.io/jekyll/update/Algorithm-post/
+
+docs:
+  - title: Data Structure
+    children:
+      - title: "bitset"
+        url: https://changpulmu.github.io/jekyll/update/bitset-post/
+      - title: "Dynamic Array"
+        url: https://changpulmu.github.io/jekyll/update/Dynamic-Array-post/
+      - title: "Set Data Structure"
+        url: https://changpulmu.github.io/jekyll/update/Set-Data-Structure-post/
+
+  - title: Algorithm
+    children:
+      - title: "Time Complexity"
+        url: https://changpulmu.github.io/jekyll/update/Time-Complexity-post/
+      - title: "Recursion Algorithm"
+        url: https://changpulmu.github.io/jekyll/update/Recursion-Algorithm-post/
+      - title: "bit Operation"
+        url: https://changpulmu.github.io/jekyll/update/bit-Operation-post/
+      - title: "Brute-Force Algorithm"
+        url: https://changpulmu.github.io/jekyll/update/Brute-Force-Algorithm-post/
+      - title: "Sort Algorithm"
+        url: https://changpulmu.github.io/jekyll/update/Sort-Algorithm-post/
+      - title: "Search Algorithm"
+        url: https://changpulmu.github.io/jekyll/update/Search-Algorithm-post/
+      - title: "Greedy Strategy"
+        url: https://changpulmu.github.io/jekyll/update/Greedy-Strategy-post/
