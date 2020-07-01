@@ -1,20 +1,18 @@
 ---
 title: "Data Structure"
 date: 2020-07-01
-categories: jekyll update
+categories: Data_Structure Concept
 ---
-
-# Data Structure
 
 ![Image of Data Structure](https://media.vlpt.us/images/daybreak/post/49661f03-26ed-4872-8da5-cac2f30193d7/data%20structure.png)
 
-[Data Structure](https://en.wikipedia.org/wiki/Data_structure)는 **데이터 값의 _모임_**, **데이터 간의 _관계_**, 그리고 **데이터에 적용할 수 있는 _함수_나 _명령_**을 의미함
+[Data Structure](https://en.wikipedia.org/wiki/Data_structure)는 **데이터 값의 _모임_**, **데이터 간의 _관계_**, 그리고 **데이터에 적용할 수 있는 *함수*나 _명령_**을 의미함
 
 - 분류
   1. 구현에 따라
   - Array / Tuple / Linked List / Circular Linked List / Double Linked List / Circular Double Linked List / Hash Table
   2. 형태에 따라
-    1. Linear Structure
-    - Stack / Queue / Dequeue
-    2. Not Linear Structure
-    - Graph / Tree (Binary Tree (Heap))
+    - Linear Structure
+      - Stack / Queue / Dequeue
+    - Not Linear Structure
+      - Graph / Tree (Binary Tree (Heap))
