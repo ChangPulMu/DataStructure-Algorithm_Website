@@ -1,12 +1,13 @@
 ---
 title: "Data Structure"
 date: 2020-07-01
-categories: Data_Structure Concept
+categories: jekyll update
+tag : Data_Structure Concept
 ---
 
 ![Image of Data Structure](https://media.vlpt.us/images/daybreak/post/49661f03-26ed-4872-8da5-cac2f30193d7/data%20structure.png)
 
-[Data Structure](https://en.wikipedia.org/wiki/Data_structure)는 **데이터 값의 _모임_**, **데이터 간의 _관계_**, 그리고 **데이터에 적용할 수 있는 *함수*나 _명령_**을 의미함
+[Data Structure](https://en.wikipedia.org/wiki/Data_structure)는 **데이터 값의 _모임_**, **데이터 간의 _관계_**, 그리고 **데이터에 적용할 수 있는 _함수_**나 **_명령_**을 의미함
 
 - 분류
   1. 구현에 따라
