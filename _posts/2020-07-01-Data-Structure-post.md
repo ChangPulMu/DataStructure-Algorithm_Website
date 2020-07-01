@@ -3,10 +3,9 @@ title: "Data Structure"
 date: 2020-07-01
 categories: jekyll update
 tags: data_structure concept
----
-
 sidebar:
   nav: "docs"
+---
 
 ![Image of Data Structure](https://media.vlpt.us/images/daybreak/post/49661f03-26ed-4872-8da5-cac2f30193d7/data%20structure.png "Data Structure")
 
