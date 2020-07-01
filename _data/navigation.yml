@@ -8,6 +8,8 @@ main:
 docs:
   - title: Data Structure
     children:
+      - title: "Overview"
+        url: https://changpulmu.github.io/jekyll/update/Data-Structure-post/
       - title: "bitset"
         url: https://changpulmu.github.io/jekyll/update/bitset-post/
       - title: "Dynamic Array"
@@ -17,6 +19,8 @@ docs:
 
   - title: Algorithm
     children:
+      - title: "Overview"
+        url: https://changpulmu.github.io/jekyll/update/Algorithm-post/
       - title: "Time Complexity"
         url: https://changpulmu.github.io/jekyll/update/Time-Complexity-post/
       - title: "Recursion Algorithm"
