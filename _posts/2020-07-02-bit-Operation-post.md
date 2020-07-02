@@ -14,8 +14,11 @@ sidebar:
 {: .text-center}    
 
 `특징` n비트 정수를 대상으로 하는 연산  
-AND  `x & y` / OR `x | y` / XOR `x ^ y` / NOT `~x (-x - 1)`
-SHIFT `x << k (x * 2^k)` `X >> k (x / 2^k 후 정수로 내림)`  
+
+AND  `x & y` | OR `x | y` | XOR `x ^ y` | NOT `~x (-x - 1)`  
+
+SHIFT `x << k (x * 2^k)` / `X >> k (x / 2^k 후 정수로 내림)`  
+
 
 ***
 
@@ -48,24 +51,30 @@ SHIFT `x << k (x * 2^k)` `X >> k (x / 2^k 후 정수로 내림)`
 ## 집합 표현  
 
 `개념` 집합 {0, 1, 2, ..., n-1}의 모든 부분집합을 n비트 정수를 이용하여 표현  
+
 `a & b` 교집합 a ∩ b / `a | b` 합집합 a ∪ b  
+
 `~a` 여집합 / `a & (~b)` 차집합 a ＼ b  
+
 
 ***
 
 * 모든 부분집합을 차례로 살펴보는 코드
 ```
+[First Method]
+
 for (int a=0; a<(1<<n); a++)
 {
-  부분집합을 살펴보는 코드
+  Code for examing subgroups
 }
-```
-```
+
+[Second Method]
+
 int b=0;
 
 do
 {
-  부분집합을 살펴보는 코드
+  Code for examing subgroups
 } while (b = (b - x) & x);
 ```   
 
@@ -75,7 +84,7 @@ for (int a=0; a<(1<<n); a++)
 {
   if(__builtin_popcount(b) == k)
   {
-    k개인 부분집합을 살펴보는 코드
+    Code for examing subgroups
   }
 }
 ```
