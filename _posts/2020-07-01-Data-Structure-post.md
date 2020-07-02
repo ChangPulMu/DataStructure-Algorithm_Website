@@ -5,14 +5,6 @@ categories: jekyll update
 tags: data_structure concept
 sidebar:
   nav: "docs"
-
-feature_row:
-  - url: "https://changpulmu.github.io/jekyll/update/Data-Structure-post/"
-  - btn_label: "Next"
-  - btn_class: "btn--primary"
-  - url: "https://changpulmu.github.io/jekyll/update/bitset-post/"
-  - btn_label: "Previous"
-  - btn_class: "btn--primary"
 ---
 
 ![Image of Data Structure](https://media.vlpt.us/images/daybreak/post/49661f03-26ed-4872-8da5-cac2f30193d7/data%20structure.png "Data Structure")
@@ -28,4 +20,5 @@ feature_row:
     * Not Linear Structure
       * Graph / Tree (Binary Tree (Heap))
 
-{% include feature_row id="feature_row" %}
+<a href="https://changpulmu.github.io/jekyll/update/Data-Structure-post/" class="btn btn--primary btn--large">previous</a>
+<a href="https://changpulmu.github.io/jekyll/update/bitset-post/" class="btn btn--primary btn--large">Next</a>
