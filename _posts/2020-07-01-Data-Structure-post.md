@@ -13,13 +13,25 @@ sidebar:
 
 * 분류
   1. 구현에 따라
-    * Array / Tuple / Linked List / Circular Linked List / Double Linked List / Circular Double Linked List / Hash Table
+    * Array
+    * Tuple
+    * Linked List
+    * Circular Linked List
+    * Double Linked List
+    * Circular Double Linked List
+    * Hash Table
   2. 형태에 따라
     * Linear Structure
-      * Stack / Queue / Dequeue
+      * Stack
+      * Queue
+      * Dequeue
     * Not Linear Structure
-      * Graph / Tree (Binary Tree (Heap))
-<br><br>
+      * Graph
+      * Tree
+        * Binary Tree
+          * Heap
+
+
 
 <a href="https://changpulmu.github.io/jekyll/update/Data-Structure-post/" class="btn btn--inverse btn--large">previous</a>
 <a href="https://changpulmu.github.io/jekyll/update/bitset-post/" class="btn btn--inverse btn--large">Next</a>{: .align-right}
