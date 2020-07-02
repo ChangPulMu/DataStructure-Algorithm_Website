@@ -10,12 +10,12 @@ sidebar:
 
 ![Image of Data Structure](https://media.vlpt.us/images/daybreak/post/49661f03-26ed-4872-8da5-cac2f30193d7/data%20structure.png "Data Structure")
 
-[Data Structure](https://en.wikipedia.org/wiki/Data_structure, "Wikipedia (Data Structure)")는 데이터 값의 모임, 데이터 간의 관계, 그리고 데이터에 적용할 수 있는 함수나 명령을 의미함
+[Data Structure](https://en.wikipedia.org/wiki/Data_structure, "Wikipedia (Data Structure)")는 __데이터 값의 모임__, __데이터 간의 관계__, 그리고 __데이터에 적용할 수 있는 함수나 명령__ 을 의미함
 
-[ Classification ]
+__[ Classification ]__
 {: .text-center}
 
-1\. According to the Implementation
+1\. According to the __Implementation__
 
 
   + Array
@@ -27,16 +27,16 @@ sidebar:
   + Hash Table
 
 
-2\. According to the Form
+2\. According to the __Form__
 
 
-  + Linear Structure
+  + __Linear Structure__
     - Stack
     - Queue
     - Dequeue
 
 
-  + Not Linear Structure
+  + __Not Linear Structure__
     - Graph
     - Tree
       * Binary Tree
