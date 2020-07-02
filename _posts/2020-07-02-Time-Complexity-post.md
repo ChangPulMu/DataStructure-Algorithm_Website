@@ -48,7 +48,8 @@ n <= 20 | `O(2^n)`
 n <= 500 | `O(n³)`
 n <= 5000 | `O(n²)`
 n <= 10^6 | `O(nlogn)` / `O(n)`
-n이 클 때 | `O(1)` / `O(logn)`{: .align-center}
+n이 클 때 | `O(1)` / `O(logn)`
+{: .align-center}
 
 
 <a href="https://changpulmu.github.io/jekyll/update/Algorithm-post/" class="btn btn--inverse btn--large">previous</a>
