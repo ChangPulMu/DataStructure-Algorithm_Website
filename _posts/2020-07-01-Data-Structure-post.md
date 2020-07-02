@@ -11,10 +11,10 @@ sidebar:
 
 [Data Structure](https://en.wikipedia.org/wiki/Data_structure, "Wikipedia (Data Structure)")는 데이터 값의 모임, 데이터 간의 관계, 그리고 데이터에 적용할 수 있는 함수나 명령을 의미함
 
-[\ 분류 ]\
+[ Classification ]
+{: .text-center}
 
-
-1\. 구현에 따라
+1\. According to the Implementation
 
 
   + Array
@@ -26,7 +26,7 @@ sidebar:
   + Hash Table
 
 
-2\. 형태에 따라
+2\. According to the Form
 
 
   + Linear Structure
