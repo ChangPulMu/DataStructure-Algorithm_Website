@@ -22,11 +22,4 @@ sidebar:
 <br><br>
 
 <a href="https://changpulmu.github.io/jekyll/update/Data-Structure-post/" class="btn btn--inverse btn--large">previous</a>
-<p>
-  <a href="https://changpulmu.github.io/jekyll/update/bitset-post/" class="btn btn--inverse btn--large">Next</a>
-</p>
-<style>
-  p{
-    text-align: right;
-  }
-</style>
+<a href="https://changpulmu.github.io/jekyll/update/bitset-post/" class="btn btn--inverse btn--large">Next</a>{: .align-right}
