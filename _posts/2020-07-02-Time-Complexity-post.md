@@ -49,8 +49,7 @@ n <= 500 | `O(n³)`
 n <= 5000 | `O(n²)`
 n <= 10^6 | `O(nlogn)` / `O(n)`
 n이 클 때 | `O(1)` / `O(logn)`
-{: .align-center}
 
 
-<a href="https://changpulmu.github.io/jekyll/update/Algorithm-post/" class="btn btn--inverse btn--large">Algorithm</a>
-<a href="https://changpulmu.github.io/jekyll/update/Recursion-Algorithm-post/" class="btn btn--inverse btn--large">Recursion Algorithm</a>{: .align-right}
+<a href="https://changpulmu.github.io/jekyll/update/Algorithm-post/" class="btn btn--inverse btn--large">Previous</a>
+<a href="https://changpulmu.github.io/jekyll/update/Recursion-Algorithm-post/" class="btn btn--inverse btn--large">Next</a>{: .align-right}

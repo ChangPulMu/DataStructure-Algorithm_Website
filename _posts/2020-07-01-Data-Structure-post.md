@@ -43,4 +43,4 @@ sidebar:
         + Heap
 
 
-<a href="https://changpulmu.github.io/jekyll/update/bitset-post/" class="btn btn--inverse btn--large">bitset</a>{: .align-right}
+<a href="https://changpulmu.github.io/jekyll/update/bitset-post/" class="btn btn--inverse btn--large">Next</a>{: .align-right}

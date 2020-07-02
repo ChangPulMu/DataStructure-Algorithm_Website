@@ -24,4 +24,4 @@ sidebar:
 * Generality (일반성) : 정의된 입력들에 일반적으로 적용할 수 있어야 함
 
 
-<a href="https://changpulmu.github.io/jekyll/update/Time-Complexity-post/" class="btn btn--inverse btn--large">Time Complexity</a>{: .align-right}
+<a href="https://changpulmu.github.io/jekyll/update/Time-Complexity-post/" class="btn btn--inverse btn--large">Next</a>{: .align-right}
