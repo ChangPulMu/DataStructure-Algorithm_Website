@@ -32,5 +32,5 @@ sidebar:
 ### N Queen Problem    
 ***
 
-<a href="https://changpulmu.github.io/jekyll/update/Recursion-Algorithm-post/" class="btn btn--inverse btn--large">Previous</a>
+<a href="https://changpulmu.github.io/jekyll/update/Time-Complexity-post/" class="btn btn--inverse btn--large">Previous</a>
 <a href="https://changpulmu.github.io/jekyll/update/bit-Operation-post/" class="btn btn--inverse btn--large">Next</a>{: .align-right}
