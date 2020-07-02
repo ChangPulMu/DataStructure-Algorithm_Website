@@ -37,8 +37,6 @@ sidebar:
     ex) 입력 원소로 만들 수 있는 모든 순열을 1번씩 살펴봄    
 
 
-<center>
-
 입력의 크기 (시간제한 1초일 때) | 추정 시간복잡도
 ----------------------------- | --------------
 n <= 10 | O(n!)
@@ -47,8 +45,6 @@ n <= 500 | O(n³)
 n <= 5000 | O(n²)
 n <= 10^6 | O(nlogn) / O(n)
 n이 클 때 | O(1) / O(logn)
-
-</center>
 
 
 <a href="https://changpulmu.github.io/jekyll/update/Algorithm-post/" class="btn btn--inverse btn--large">previous</a>
