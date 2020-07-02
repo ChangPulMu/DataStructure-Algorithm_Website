@@ -23,7 +23,7 @@ sidebar:
 
 ---
 
-## bit Mask
+### bit Mask
 `개념` 1 << k (k번째 위치에만 bit 1이 있고, 나머지 위치에 bit 0이 있는 정수)  
 `활용도1` int형 정수 x의 bit 표현을 출력 가능함  
 `활용도2` int형 정수의 특정한 bit 하나를 수정할 수 있음  
@@ -47,7 +47,7 @@ sidebar:
 
 ---
 
-## 집합 표현
+### 집합 표현
 `개념` 집합 {0, 1, 2, ..., n-1}의 모든 부분집합을 n비트 정수를 이용하여 표현  
 
 * `a & b` 교집합 a ∩ b
@@ -92,6 +92,8 @@ for (int a=0; a<(1<<n); a++)
 ---
 
 `C++ 표준 라이브러리` [bitset](https://changpulmu.github.io/jekyll/update/bitset-post/, "bitset")
-***
+
+---
+
 <a href="https://changpulmu.github.io/jekyll/update/Recursion-Algorithm-post/" class="btn btn--inverse btn--large">Previous</a>
 <a href="https://changpulmu.github.io/jekyll/update/Brute-Force-Algorithm-post/" class="btn btn--inverse btn--large">Next</a>{: .align-right}
