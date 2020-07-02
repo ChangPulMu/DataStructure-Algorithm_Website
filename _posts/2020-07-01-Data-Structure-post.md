@@ -19,6 +19,14 @@ sidebar:
       * Stack / Queue / Dequeue
     * Not Linear Structure
       * Graph / Tree (Binary Tree (Heap))
+<br><br>
 
-<a href="https://changpulmu.github.io/jekyll/update/Data-Structure-post/" class="btn btn--primary btn--large">previous</a>
-<a href="https://changpulmu.github.io/jekyll/update/bitset-post/" class="btn btn--primary btn--large">Next</a>
+<a href="https://changpulmu.github.io/jekyll/update/Data-Structure-post/" class="btn btn--inverse btn--large">previous</a>
+<p>
+  <a href="https://changpulmu.github.io/jekyll/update/bitset-post/" class="btn btn--inverse btn--large">Next</a>
+</p>
+<style>
+  p{
+    text-align: right;
+  }
+</style>
