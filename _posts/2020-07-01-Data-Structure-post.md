@@ -1,4 +1,5 @@
 ---
+classes: wide
 title: "Data Structure"
 date: 2020-07-01
 categories: jekyll update

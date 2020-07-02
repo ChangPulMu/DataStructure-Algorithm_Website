@@ -8,40 +8,21 @@ sidebar:
   nav: "docs"
 ---
 
-![Image of Data Structure](https://media.vlpt.us/images/daybreak/post/49661f03-26ed-4872-8da5-cac2f30193d7/data%20structure.png "Data Structure")
+![Image of Data Structure](/assets/images/algorithm_overview.jpg "Algorithm")
 
-[Data Structure](https://en.wikipedia.org/wiki/Data_structure, "Wikipedia (Data Structure)")는 데이터 값의 모임, 데이터 간의 관계, 그리고 데이터에 적용할 수 있는 함수나 명령을 의미함
+[Algorithm](https://en.wikipedia.org/wiki/Algorithm, "Wikipedia (Algorithm)")은 수학, 컴퓨터 과학, 언어학 또는 관련 분야에서 어떠한 문제를 해결하기 위한 일련의 절차나 방법을 공식화한 형태로 표현한 것으로 계산을 실행하기 위한 단계적 절차를 의미함
 
-[ Classification ]
+[ Feature of Good Algorithm ]
 {: .text-center}
 
-1\. According to the Implementation
+* Precision (정밀성) : 변하지 않는 명확한 작업 단계를 가져야 함
+* Uniqueness (유일성) : 각 단계마다 명확한 다음 단계를 가져야 함
+* Feasibility (타당성) : 구현할 수 있고 실용적이어야 함
+* Input (입력) : 정의된 입력을 받아들일 수 있어야 함
+* Output (출력) : 답으로 출력을 내보낼 수 있어야 함
+* Finiteness (유한성) : 특정 수의 작업 이후에 정지해야 함
+* Generality (일반성) : 정의된 입력들에 일반적으로 적용할 수 있어야 함
 
 
-  + Array
-  + Tuple
-  + Linked List
-  + Circular Linked List
-  + Double Linked List
-  + Circular Double Linked List
-  + Hash Table
-
-
-2\. According to the Form
-
-
-  + Linear Structure
-    - Stack
-    - Queue
-    - Dequeue
-
-
-  + Not Linear Structure
-    - Graph
-    - Tree
-      * Binary Tree
-        + Heap
-
-
-<a href="https://changpulmu.github.io/jekyll/update/Data-Structure-post/" class="btn btn--inverse btn--large">previous</a>
-<a href="https://changpulmu.github.io/jekyll/update/bitset-post/" class="btn btn--inverse btn--large">Next</a>{: .align-right}
+<a href="https://changpulmu.github.io/jekyll/update/Algorithm-post/" class="btn btn--inverse btn--large">previous</a>
+<a href="https://changpulmu.github.io/jekyll/update/Time-Complexity-post/" class="btn btn--inverse btn--large">Next</a>{: .align-right}
