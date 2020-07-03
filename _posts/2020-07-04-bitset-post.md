@@ -10,7 +10,7 @@ sidebar:
 
 ![Image of bitset](/assets/images/bitset.jpg "bitset")
 
-[ [bitset](https://en.wikipedia.org/wiki/Search_algorithm, "Wikipedia (Search Algorithm)") ]
+[ [bitset](https://en.cppreference.com/w/cpp/utility/bitset, "cppreference (bitset)") ]
 {: .text-center}
 
 Will be Add Contents...
