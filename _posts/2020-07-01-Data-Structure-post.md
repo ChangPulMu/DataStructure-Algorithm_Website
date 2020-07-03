@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 ---
 
-![Image of Data Structure](https://media.vlpt.us/images/daybreak/post/49661f03-26ed-4872-8da5-cac2f30193d7/data%20structure.png "Data Structure")
+![Image of Data Structure](/assets/images/data_structure_overview "Data Structure")
 
 [Data Structure](https://en.wikipedia.org/wiki/Data_structure, "Wikipedia (Data Structure)")는 데이터 값의 모임, 데이터 간의 관계, 그리고 데이터에 적용할 수 있는 함수나 명령을 의미함
 
