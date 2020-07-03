@@ -17,6 +17,7 @@ sidebar:
 
 ### Binary Search `O(logn)`
 `설명` 정렬된 배열에 특정 원소 존재 여부를 확인  
+
 `Answer 1` 재귀적으로 배열의 탐색 범위를 절반으로 줄여가며 중앙의 원소를 검사함  
 `Answer 2` 배열을 왼->오른쪽으로 n/2^k개(~1개)의 원소를 건너뛰며 해당 위치 원소를 검사함  
 
@@ -26,6 +27,7 @@ sidebar:
 `전제` valid(x)라는 함수는 x가 올바른 해면 true / 아니면 false 반환  
 `조건` x<k일 때 valid(x)는 false & x>=k일 때 valid(x)는 true임을 알고 있는 상태  
 `Idea` valid(x)가 false인 x의 최댓값을 이진 탐색으로 구함 (k = x+1일 때, valid(k)는 true인 최솟값)  
+
 ∴ valid()를 `O(logn)`만큼 호출함으로 전체 수행시간은 `O(logn * valid() 수행시간)`
 
 ---
