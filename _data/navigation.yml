@@ -38,6 +38,7 @@ docs:
         url: https://changpulmu.github.io/jekyll/update/Search-Algorithm-post/
       - title: "Greedy Strategy"
         url: https://changpulmu.github.io/jekyll/update/Greedy-Strategy-post/
+      - title: "Will be Add Contents..."
 
   - title: Other Concepts
     children:
