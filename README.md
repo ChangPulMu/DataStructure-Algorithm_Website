@@ -12,5 +12,6 @@
 
 * Algorithm
   1. Overview : https://changpulmu.github.io/jekyll/update/Algorithm-post/
+  2. Time Complexity : https://changpulmu.github.io/jekyll/update/Time-Complexity-post/
 
 Will be Add Manual...
