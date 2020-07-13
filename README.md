@@ -15,5 +15,6 @@
   2. Time Complexity : https://changpulmu.github.io/jekyll/update/Time-Complexity-post/
   3. Recursion Algorithm : https://changpulmu.github.io/jekyll/update/Recursion-Algorithm-post/
   4. bit Operation : https://changpulmu.github.io/jekyll/update/bit-Operation-post/
+  5. Brute-Force Algorithm : https://changpulmu.github.io/jekyll/update/Brute-Force-Algorithm-post/
 
 Will be Add Manual...
