@@ -18,5 +18,6 @@
   5. Brute-Force Algorithm : https://changpulmu.github.io/jekyll/update/Brute-Force-Algorithm-post/
   6. Sort Algorithm : https://changpulmu.github.io/jekyll/update/Sort-Algorithm-post/
   7. Search Algorithm : https://changpulmu.github.io/jekyll/update/Search-Algorithm-post/
+  8. Greedy Strategy : https://changpulmu.github.io/jekyll/update/Greedy-Strategy-post/
 
 Will be Add Manual...
