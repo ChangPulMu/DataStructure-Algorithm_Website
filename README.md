@@ -16,5 +16,6 @@
   3. Recursion Algorithm : https://changpulmu.github.io/jekyll/update/Recursion-Algorithm-post/
   4. bit Operation : https://changpulmu.github.io/jekyll/update/bit-Operation-post/
   5. Brute-Force Algorithm : https://changpulmu.github.io/jekyll/update/Brute-Force-Algorithm-post/
+  6. Sort Algorithm : https://changpulmu.github.io/jekyll/update/Sort-Algorithm-post/
 
 Will be Add Manual...
