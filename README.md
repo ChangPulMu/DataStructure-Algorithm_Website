@@ -21,6 +21,6 @@
   8. Greedy Strategy : https://changpulmu.github.io/jekyll/update/Greedy-Strategy-post
 
 * Other Concepts
-  1. Inversion : 
+  1. Inversion : https://changpulmu.github.io/jekyll/update/Inversion-post/
 
 Will be Add Manual...
