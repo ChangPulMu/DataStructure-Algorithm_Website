@@ -22,5 +22,6 @@
 
 * Other Concepts
   1. Inversion : https://changpulmu.github.io/jekyll/update/Inversion-post/
+  2. Comparison Operator : 
 
 Will be Add Manual...
