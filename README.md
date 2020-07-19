@@ -20,6 +20,8 @@
   7. Search Algorithm : https://changpulmu.github.io/jekyll/update/Search-Algorithm-post/
   8. Greedy Strategy : https://changpulmu.github.io/jekyll/update/Greedy-Strategy-post
 
+Will be Add Manual...
+
 * Other Concepts
   1. Inversion : https://changpulmu.github.io/jekyll/update/Inversion-post/
   2. Comparison Operator : https://changpulmu.github.io/jekyll/update/Comparison-Operator-post/
