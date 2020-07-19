@@ -10,6 +10,8 @@
   3. Dynamic Array : https://changpulmu.github.io/jekyll/update/Dynamic-Array-post/
   4. Set Data Structure : https://changpulmu.github.io/jekyll/update/Set-Data-Structure-post/  
 
+Will be Add Manual...
+
 * Algorithm
   1. Overview : https://changpulmu.github.io/jekyll/update/Algorithm-post/
   2. Time Complexity : https://changpulmu.github.io/jekyll/update/Time-Complexity-post/
